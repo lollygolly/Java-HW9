@@ -5,5 +5,5 @@ public class Post {
     public String patronymic; // поле для отчества
     public String phone; // поле для номера телефона
     public String surname; // поле для фамилии
-    public String subscription; // поле для согласия на рассылки
+    public boolean subscription; // поле для согласия на рассылки
 }
